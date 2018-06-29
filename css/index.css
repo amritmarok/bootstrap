@@ -1,0 +1,32 @@
+body{font-family: 'Josefin Slab', serif;
+     background-color: #EEE5E9
+}
+
+a{
+	color: #A6808C;
+}
+
+.navbar-default {
+	background-color: #172A3A;
+	border-color: #565264;
+}
+
+#profilepicture {border-radius: 50%;
+	                    
+}
+
+.description {float: centre;
+
+}
+
+.container-fluid {margin-left:15%;
+				  margin-right: 15%;
+}
+
+
+.underprofile {text-align: justify;
+               padding: 20px;
+               }
+
+
+
